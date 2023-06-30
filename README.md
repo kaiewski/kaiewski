@@ -9,7 +9,7 @@ I'm beginner Python developer
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [babadukv467@gmail.com](mailto:babadukv467@gmail.com)
 * 🚀  I'm currently working on [Planet Simulator](http://itch.io)
-* 🧠  I'm learning Pygame, Hash coding
+* 🧠  I'm learning Python, Game developing, Telegram developing  
 * 🤝  I'm open to collaborating on Games, Simple projects, Web developing
 * ⚡  Love Pygame <3
 
