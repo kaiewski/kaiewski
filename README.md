@@ -7,7 +7,6 @@ I'm beginner Python developer
 \- Learning Python for 3 years - Developing games - Web development - Different projects
 
 * 🌍  I'm based in Czech Republic
-* ✉️  You can contact me at [babadukv467@gmail.com](mailto:babadukv467@gmail.com)
 * 🚀  I'm currently working on [Planet Simulator](http://itch.io)
 * 🧠  I'm learning Python, Game developing, Telegram developing  
 * 🤝  I'm open to collaborating on Games, Simple projects, Web developing
