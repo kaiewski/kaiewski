@@ -6,7 +6,7 @@ I'm a beginner Python software developer.
 
 \- Software development - Game development - Web development - Simulations
 
-* 🌍  I'm based in Czech Republic
+* 🌍  I'm based in Czech Republic
 * 🎓  I'm study at University of West Bohemia in Pilsen
 * 🚀  I'm currently working on Reports Parser App
 * 🧠  I'm learning Python, C++, MATLAB, JavaScript, HTML/CSS
