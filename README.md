@@ -9,7 +9,7 @@ I'm beginner Python developer
 * 🌍  I'm based in Czech Republic
 * 🎓  I'm study at University of West Bohemia in Pilsen
 * 🚀  I'm currently working on *Reports Parser App* 
-* 🧠  I'm learning Python (BeautifulSoup4, PySide6, requests, asyncio, socket, threading, Pandas, Json, pygame, MySQL, SQLite, NumPy, Telegrab Bots, Shaders), C++, MATLAB (Simulations), JavaScript (Web Development), HTML/CSS
+* 🧠  I'm learning Python, C++, MATLAB, JavaScript, HTML/CSS
 * 🤝  I'm open to collaborating on Web parser, Game and Web developing, Simulations 
 
 ### Skills
