@@ -1,7 +1,7 @@
 Hi 👋 My name is Eliáš
 =========================
 
-I'm beginner Python developer
+I'm beginner Software Python developer
 -----------------------------
 
 \- Game development - Web development - Simulations
