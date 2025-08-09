@@ -1,10 +1,10 @@
 Hi 👋 My name is Eliáš
 =========================
 
-I'm beginner Software Python developer
+I'm a beginner Python software developer.
 -----------------------------
 
-\- Game development - Web development - Simulations
+\- Software development - Game development - Web development - Simulations
 
 * 🌍  I'm based in Czech Republic
 * 🎓  I'm study at University of West Bohemia in Pilsen
