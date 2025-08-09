@@ -4,13 +4,13 @@ Hi 👋 My name is kaiewski
 I'm beginner Python developer
 -----------------------------
 
-\- Learning Python for 3 years - Developing games - Web development - Different projects
+\- Game development - Web development - Simulations
 
 * 🌍  I'm based in Czech Republic
-* 🚀  I'm currently working on [Planet Simulator](http://itch.io)
-* 🧠  I'm learning Python, Game developing, Telegram developing  
-* 🤝  I'm open to collaborating on Games, Simple projects, Web developing
-* ⚡  Love Pygame <3
+* 🎓  I'm study at University of West Bohemia in Pilsen
+* 🚀  I'm currently working on *Reports Parser App* 
+* 🧠  I'm learning Python (BeautifulSoup4, PySide6, requests, asyncio, socket, threading, Pandas, Json, pygame, NumPy, Shaders), C++, MATLAB (Simulations), JavaScript (Web Development), HTML/CSS
+* 🤝  I'm open to collaborating on Web parser, Game and Web developing, Simulations 
 
 ### Skills
 
