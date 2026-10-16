@@ -1,7 +1,7 @@
 Hi 👋 My name is Eliáš
 =========================
 
-I'm a beginner Python software developer.
+I'm a Python software developer.
 -----------------------------
 
 \- Software development - Game development - Web development - Simulations
@@ -9,7 +9,7 @@ I'm a beginner Python software developer.
 * 🌍  I'm based in Czech Republic
 * 🎓  I'm study at University of West Bohemia in Pilsen
 * 🚀  I'm currently working on Reports Parser App
-* 🧠  I'm learning Python, C++, MATLAB simulations, JavaScript, HTML/CSS
+* 🧠  Python, C++/C#, MATLAB simulations, JavaScript, HTML/CSS
 
 ### Skills
 
